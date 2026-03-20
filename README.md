@@ -45,5 +45,6 @@ V. Технические требования
 - Библиотеки: 'nltk', 'requests', 'json', 'secrets' (для создания базы также 'os', 'time')
 
 VI. Запуск
+
 '''bash
 jupyter notebook main_game.ipynb
